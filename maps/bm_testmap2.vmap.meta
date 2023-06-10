@@ -1,0 +1,37 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Store (Bomberman)",
+      "Type": "map",
+      "Org": "astero",
+      "Ident": "bm_store",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.trolley#13129",
+        "astero.bomberman",
+        "facepunch.floor_tile_01#17343",
+        "facepunch.ply_panels_paint#17394",
+        "facepunch.ceiling_plaster_01#17458",
+        "facepunch.pallet#10894",
+        "facepunch.card_box_open#15229",
+        "facepunch.wooden_crate#10835",
+        "facepunch.oil_drum#17156",
+        "facepunch.cardboard_box#15017"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/bm_testmap2.vmap",
+        "Summary": "Work In Progress",
+        "Description": "",
+        "Public": true
+      }
+    }
+  }
+}
