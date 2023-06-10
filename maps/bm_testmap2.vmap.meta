@@ -10,7 +10,8 @@
       "Schema": 0,
       "HasAssets": false,
       "AssetsPath": null,
-      "ResourcePaths": null,
+      "Resources": null,
+      "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
@@ -24,13 +25,14 @@
         "facepunch.card_box_open#15229",
         "facepunch.wooden_crate#10835",
         "facepunch.oil_drum#17156",
-        "facepunch.cardboard_box#15017"
+        "facepunch.cardboard_box#15017",
+        "facepunch.trolley#18258"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/bm_testmap2.vmap",
         "Summary": "Work In Progress",
         "Description": "",
-        "Public": true
+        "Public": false
       }
     }
   }
